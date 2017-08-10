@@ -1,0 +1,22 @@
+.text{
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+.text2{
+	font-family: "Mistral";
+	font-size: 60px;
+	color:blue;
+	text-align: center;
+}
+
+.text3{
+
+font-family:"Calibri" ;
+font-family: 70px;
+color: red;
+text-align: center;;
+
+}
